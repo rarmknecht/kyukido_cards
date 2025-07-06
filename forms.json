@@ -1,61 +1,73 @@
 [
   {
-    "name": "Kibon (1)",
+    "number": "1",
+    "name": "Kibon",
     "handPosition": "Parallel Stance, Fists in Front",
     "openingMove": "Turn Left forming a LEFT FOOT FORWARD FRONT STANCE while executing a HIGH FOREARM BLOCK"
   },
   {
-    "name": "Kicho (2)",
+    "number": "2",
+    "name": "Kicho",
     "handPosition": "Parallel Stance, Fists in Front",
     "openingMove": "LEFT FOOT FORWARD FRONT STANCE while executing a LOW FOREARM BLOCK"
   },
   {
-    "name": "Kyuki Il Chang (3)",
+    "number": "3",
+    "name": "Kyuki Il Chang",
     "handPosition": "Closed Stance, Left Hand Straight Over Right Fist",
     "openingMove": "Looking Left, Form a LEFT FOOT FOREWARD BACKSTANCE while executing a MIDDLE DOUBLE KNIFEHAND BLOCK"
   },
   {
-    "name": "Kyuki Yee Chang (4)",
+    "number": "4",
+    "name": "Kyuki Yee Chang",
     "handPosition": "Closed Stance, Left Hand Straight Over Right Fist",
     "openingMove": "Step Left Foot Back at 45 to form a RIGHT FOOT FORWARD BACK STANCE while executing a MIDDLE INSIDE FOREARM BLOCK"
   },
   {
-    "name": "Kyuki Sam Chang (5)",
+    "number": "5",
+    "name": "Kyuki Sam Chang",
     "handPosition": "Closed Stance, Left Hand Straight Over Right Fist",
     "openingMove": "Step Right Foot Back to form a LEFT FOOT FORWARD FRONT STANCE while executing a MIDDLE FOREARM BLOCK"
   },
   {
-    "name": "Guen Bon (6)",
+    "number": "6",
+    "name": "Guen Bon",
     "handPosition": "Parallel Stance, Double Arc Hand Pressing Earth",
     "openingMove": "Step Right Foot Back to form a LEFT FOOT FORWARD FRONT STANCE while executing a LEFT LOW FOREARM BLOCK & RIGHT REVERSE MIDDLE INSIDE FOREARM BLOCK"
   },
   {
-    "name": "Chonji In Il Chang (7)",
+    "number": "7",
+    "name": "Chonji In Il Chang",
     "handPosition": "Parallel Stance, Double Arc Hand Pushing High",
     "openingMove": "Stepping Left to form a LEFT FOOT FORWARD BACK STANCE while executing a LEFT CORKSCREW TRAP IN-TO-OUT"
   },
   {
-    "name": "Chonji In Yee Chang (8)",
+    "number": "8",
+    "name": "Chonji In Yee Chang",
     "handPosition": "Parallel Stance, Double Arc Hand Pushing Low",
     "openingMove": "Move left foot to form a HORSE STANCE facing forward. Execute a RIGHT ROLLING VERTICLE PUNCH with left hand under the right elbow"
   },
   {
-    "name": "Chonji In Sam Chang (9)",
+    "number": "9",
+    "name": "Chonji In Sam Chang",
     "handPosition": "Parallel Stance, Double Arc Hand Pushing Middle",
     "openingMove": "Stepping Back Left at 45 to form a CLASSICAL KYUKIDO STANCE while executing a LOW KYUKIDO BLOCK with left fist above the head"
   },
   {
-    "name": "Man Nam (10)",
+    "number": "10",
+    "name": "Man Nam",
     "handPosition": "Closed Stance, Staff on Right Side",
     "openingMove": "Step left foot out to parallel stance while executing a SLOW HIGH HORIZONTAL BLOCK"
   },
   {
-    "name": "Ka Chi (11)",
+    "number": "11",
+    "name": "Ka Chi",
     "handPosition": "Parallel Stance, Twin Verticle Spear Hands",
     "openingMove": "Reach up with both hands executing a sleeve and lapel grab while executing a PROPPING ANKLE THROW with the right foot"
   },
   {
-    "name": "Sa Rang (12)",
+    "number": "12",
+    "name": "Sa Rang",
     "handPosition": "Parallel Stance, Open Hands Crossed Over Chest - Left Over Right",
     "openingMove": "Step forward to form a LEFT FOOT FORWARD BACK STANCE and execute a LEFT INSIDE FOREARM BLOCK"
   }

@@ -6,6 +6,7 @@ class FlashcardApp {
         
         this.flashcard = document.getElementById('flashcard');
         this.formName = document.getElementById('form-name');
+        this.formNumber = document.getElementById('form-number');
         this.handPosition = document.getElementById('hand-position');
         this.openingMove = document.getElementById('opening-move');
         this.prevBtn = document.getElementById('prev-btn');
@@ -91,6 +92,7 @@ class FlashcardApp {
         
         const currentForm = this.forms[this.currentIndex];
         
+        this.formNumber.textContent = currentForm.number;
         this.formName.textContent = currentForm.name;
         this.handPosition.textContent = currentForm.handPosition;
         this.openingMove.textContent = currentForm.openingMove;
