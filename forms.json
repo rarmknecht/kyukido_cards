@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Kibon",
+    "handPosition": "Parallel Stance, Fists in Front",
+    "openingMove": "Turn Left forming a LEFT FOOT FORWARD FRONT STANCE while executing a HIGH FOREARM BLOCK"
+  },
+  {
+    "name": "Kicho",
+    "handPosition": "Parallel Stance, Fists in Front",
+    "openingMove": "LEFT FOOT FORWARD FRONT STANCE while executing a LOW FOREARM BLOCK"
+  },
+  {
+    "name": "Kyuki Il Chang",
+    "handPosition": "Closed Stance, Left Hand Straight Over Right Fist",
+    "openingMove": "Looking Left, Form a LEFT FOOT FOREWARD BACKSTANCE while executing a MIDDLE DOUBLE KNIFEHAND BLOCK"
+  },
+  {
+    "name": "Kyuki Yee Chang",
+    "handPosition": "Closed Stance, Left Hand Straight Over Right Fist",
+    "openingMove": "Step Left Foot Back at 45 to form a RIGHT FOOT FORWARD BACK STANCE while executing a MIDDLE INSIDE FOREARM BLOCK"
+  }
+
+
+
+]
